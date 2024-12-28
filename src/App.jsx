@@ -1,5 +1,5 @@
-import Alif from "./component/alif/Alif"
-import Nifad from "./component/alif/nifad/Nifad"
+import Alif from "./components/alif/Alif"
+
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Alif />
-      <Nifad/>
+      {/* <Nifad/> */}
       {/* nobodip */}
       {/* subhan */}
       {/* asad */}

@@ -11,6 +11,8 @@ export default {
       custom: ['"Inknut Antiqua"', 'ui-serif', 'Georgia', 'serif'], // Customize as needed
     },
   },
-  plugins: [],
+  plugins: [
+    require('daisyui'),
+  ],
 }
 

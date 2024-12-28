@@ -7,6 +7,9 @@ export default {
   
   theme: {
     extend: {},
+    fontFamily: {
+      custom: ['"Inknut Antiqua"', 'ui-serif', 'Georgia', 'serif'], // Customize as needed
+    },
   },
   plugins: [],
 }

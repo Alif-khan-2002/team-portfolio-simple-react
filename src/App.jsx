@@ -1,8 +1,10 @@
+import Alif from "./component/alif/Alif"
+
 function App() {
 
   return (
     <>
-      <h1>This is team project</h1>
+      <Alif/>
     </>
   )
 }

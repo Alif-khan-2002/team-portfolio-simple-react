@@ -2,7 +2,7 @@ import Alif from "./components/alif/Alif"
 import Asad from "./components/asad/Asad"
 import Nifad from "./components/nifad/Nifad"
 import Nobodip from "./components/nobodip/Nobodip"
-import Subhan from "./components/subhan/Subhan"
+import Subahan from "./components/subahan/subahan"
 
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
       <Alif />
       <Nifad/>
       <Nobodip/>
-      <Subhan/>
+      <Subahan></Subahan>
       <Asad/>
     </>
   )

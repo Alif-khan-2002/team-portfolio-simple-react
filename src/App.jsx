@@ -1,4 +1,5 @@
-import Alif from "./component/alif/Alif"
+import Alif from "./components/alif/Alif"
+
 
 function App() {
 

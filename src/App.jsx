@@ -1,5 +1,5 @@
-import Alif from "./component/alif/Alif"
-import Nifad from "./component/alif/nifad/Nifad"
+import Alif from "./components/alif/Alif"
+import Nifad from "./components/nifad/Nifad"
 
 
 function App() {
